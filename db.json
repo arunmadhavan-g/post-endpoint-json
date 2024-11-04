@@ -1,5 +1,6 @@
 {
   "workflowSteps": [{
+    "id": 1,
     "runId": "sample-run-id",
     "workflowName": "test",
     "status":"submitted",
